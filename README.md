@@ -1,5 +1,5 @@
 To run the program type this command in terminal :
-python code.py <csv file> <product> <product> ..
+python code.py csv_file product_one product_two ..
 
 Example :
 
